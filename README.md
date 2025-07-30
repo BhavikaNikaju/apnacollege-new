@@ -1,3 +1,2 @@
 # apnacollege-new
-this is my repo for educational purpose
-author- bhavika nikaju
+this is my repo for educational purpose <br> author- bhavika nikaju
